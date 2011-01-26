@@ -1,0 +1,4 @@
+A = []
+for i in range(0,16):
+    for i in range(0,31):
+        A.append(
